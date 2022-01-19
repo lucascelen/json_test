@@ -2,35 +2,26 @@
     "id": 1,
     "organisatieId": 1,
     "naam": "Weerstation NO",
-    "isPubliekZichtbaar": 0,
-    "gsmNummer": "0456186363",
-    "uniekeCode": "01234-56789",
-    "created_at": "2022-01-19T12:00:11.000000Z",
     "updated_at": null,
     "metings" : [
         {
     "Weerstation": "0032456098473",
-    "T1": "38.1",
-    "T2": "37.77"
+    "T1": "38.1"
     },
     {
     "Weerstation": "0032456098473",
-    "T1": "37",
-    "T2": "37.6"
+    "T1": "37"
     },
     {
     "Weerstation": "0032456098473",
-    "T1": "37.1",
-    "T2": "37.36"
+    "T1": "37.1"
     },
     {
     "Weerstation": "0032456098473",
-    "T1": "37.9",
-    "T2": "37.19"
+    "T1": "37.9"
     },
     {
     "Weerstation": "0032456098473",
-    "T1": "37.2",
-    "T2": "36.88"
+    "T1": "37.2"
     }
 ]}
