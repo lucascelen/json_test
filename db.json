@@ -2,7 +2,6 @@
     "id": 1,
     "organisatieId": 1,
     "naam": "Weerstation NO",
-    "updated_at": null,
     "metings" : [
         {
     "Weerstation": "0032456098473",
